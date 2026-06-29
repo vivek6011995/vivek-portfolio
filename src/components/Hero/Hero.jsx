@@ -51,7 +51,7 @@ export default function Hero() {
             <motion.div className={styles.imageRing} animate={glowPulse} />
             <img
               src={profileImg}
-              alt="Shubham Shrivastava"
+              alt="Vivek kumar"
               className={styles.profileImage}
             />
           </motion.div>
@@ -109,7 +109,7 @@ export default function Hero() {
             </button>
             <a
               href="/resume.pdf"
-              download="Shubham_Shrivastava_Resume.pdf"
+              download="vivek_kumar_UI_Engineer.pdf"
               className={styles.btnSecondary}
               onClick={(e) => {
                 e.preventDefault();
