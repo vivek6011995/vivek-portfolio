@@ -294,5 +294,5 @@ export const socialLinks = {
     github: "https://github.com/vivek6011995",
     linkedin: "https://www.linkedin.com/in/vivek-kumar-154266b7/",
     email: "ervivekgupta601@gmail.com",
-    resume: "https://drive.google.com/file/d/1pCl0gj7raOWiLOHREA3XPW4hyJQZqTZv/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1LXqG7NAdVTUv9fLCjlpka6hkO4uDVDZ0/view?usp=sharing",
 };
